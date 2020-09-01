@@ -4,4 +4,4 @@
 
 也可以检测目标机器到本地网络的稳定性，可用群晖运行脚本来实现自动监测等
 
-[EN_Version](/README_EN.md)
+[EN](/README_EN.md)
