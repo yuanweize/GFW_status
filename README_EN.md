@@ -1,3 +1,4 @@
+# GFW_status
 
 Used to detect if the domain name of a v2ray node is blocked by Great FireWall.
 
