@@ -1,0 +1,15 @@
+nps
+hk1.yuanweize
+hk2.yuanweize
+sfo1.hktech
+sfo2.hktech
+nyc1.hktech
+tor1.hktech
+tor2.hktech
+fra1.yuanweize
+fra1.hktech
+kraws
+ams1.hktech
+lon2.hktech
+lon1.hktech
+sgp1.hktech

@@ -1,0 +1,17 @@
+Check time:2020-09-01 09:00:02   Host:nps.cnvpn.top   Loss:50%   Ping:32.260 Server name:	nps
+Check time:2020-09-01 09:00:10   Host:hk1.yuanweize.win   Loss:0%   Ping:22.997 Server name:	hk1.yuanweize
+Check time:2020-09-01 09:00:17   Host:hk2.yuanweize.win   Loss:0%   Ping:37.567 Server name:	hk2.yuanweize
+Check time:2020-09-01 09:00:23   Host:sfo1.hktech.xyz   Loss:0%   Ping:167.392 Server name:	sfo1.hktech
+Check time:2020-09-01 09:00:30   Host:sfo2.hktech.xyz   Loss:0%   Ping:172.991 Server name:	sfo2.hktech
+Check time:2020-09-01 09:00:36   Host:nyc1.hktech.xyz   Loss:25%   Ping:241.284 Server name:	nyc1.hktech
+Check time:2020-09-01 09:00:43   Host:tor1.hktech.xyz   Loss:0%   Ping:263.030 Server name:	tor1.hktech
+Check time:2020-09-01 09:00:50   Host:tor2.hktech.xyz   Loss:0%   Ping:253.701 Server name:	tor2.hktech
+Check time:2020-09-01 09:00:57   Host:fra1.yuanweize.win   Loss:0%   Ping:210.515 Server name:	fra1.yuanweize
+Check time:2020-09-01 09:01:03   Host:fra1.hktech.xyz   Loss:0%   Ping:224.400 Server name:	fra1.hktech
+Check time:2020-09-01 09:01:10   Host:kraws.yuanweize.win   Loss:25%   Ping:92.817 Server name:	kraws
+Check time:2020-09-01 09:01:17   Host:ams1.hktech.xyz   Loss:0%   Ping:218.922 Server name:	ams1.hktech
+Check time:2020-09-01 09:01:24   Host:lon2.hktech.xyz   Loss:0%   Ping:226.440 Server name:	lon2.hktech
+Check time:2020-09-01 09:01:31   Host:lon1.hktech.xyz   Loss:0%   Ping:233.946 Server name:	lon1.hktech
+Check time:2020-09-01 09:01:38   Host:sgp1.hktech.xyz   Loss:75%   Ping:232.143 Server name:	sgp1.hktech
+Check time:2020-09-01 09:01:55   Host:baidu.com   Loss:0%   Ping:29.850 Server name:	
+Check time:2020-09-01 09:02:01   Host:google.com   Loss:100%   Ping: Server name:	
